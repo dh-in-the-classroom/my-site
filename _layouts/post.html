@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="header">
-    <div class="overlay-image" style="width:100%; height: 20em; background:url({{ page.header.overlay_image }}); background-size: cover; background-attachment: fixed;">
+    <div class="overlay-image" style="width:100%; height: 20em; background:url({{ page.overlay_image }}); background-size: cover; background-attachment: fixed;">
         <h1 style="color: #fff; padding: 2em 1em 0 1em;">{{ page.title }}</h1>
         <p class="excerpt" style="color: #fff; padding: 2em; vertical-align: bottom;">{{ page.excerpt }}</p>
     </div>
@@ -20,7 +20,7 @@ layout: default
 
 
 <div class="contributor" style="min-height: 5em;">
-    <div class="avatar" style="width: 5em; height: 5em; border-radius: 5em; overflow: hidden; float: left;"><img src="{{ page.contributors[0].avatar }}"></div>
+    <div class="avatar" style="width: 5em; height: 5em; border-radius: 5em; overflow: hidden; float: left;"><img src="{{ page.contributors[0].image }}"></div>
     
     <div class="bio" style="width: 75%; margin-left: 1em; float: left;">
 
