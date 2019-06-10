@@ -11,7 +11,7 @@ What are some of the advantages of this strategy? What are some of the drawbacks
 1) [**Fork** the repository](https://help.github.com/en/articles/fork-a-repo)
 2) **Settings** -> [Edit the repository name and description](https://help.github.com/en/articles/renaming-a-repository)
 3) **Settings** -> [Publish the site by choosing a source branch](https://guides.github.com/features/pages/#setup)
-4) [**Edit**](https://help.github.com/en/articles/editing-files-in-your-repository)the `index.md` file
+4) [**Edit**](https://help.github.com/en/articles/editing-files-in-your-repository) the `index.md` file
 5) **Commit** (i.e., save) your changes
 
 *Hint:* Clicking the **Preview changes** tab will allow you to, well, preview changes.
