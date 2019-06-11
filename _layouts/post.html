@@ -18,7 +18,6 @@ layout: default
 <br/>
 <br/>
 
-
 <div class="contributor" style="min-height: 5em;">
     <div class="avatar" style="width: 5em; height: 5em; border-radius: 5em; overflow: hidden; float: left;"><img src="{{ page.contributors[0].image }}"></div>
     
@@ -29,6 +28,23 @@ layout: default
         <div style="float: left">
 
         {{ page.contributors[0].bio | markdownify }}
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="contributor" style="min-height: 5em;">
+    <div class="avatar" style="width: 5em; height: 5em; border-radius: 5em; overflow: hidden; float: left;"><img src="{{ page.contributors[1].image }}"></div>
+    
+    <div class="bio" style="width: 75%; margin-left: 1em; float: left;">
+
+        <h3 style="display: inline; float: left; padding-right: 1em;">{{ page.contributors[1].name }}</h3>
+        <a href="https://twitter.com/{{ page.contributors[1].twitter }}" style="display: inline; width: 2em; height: 2em; border-radius: 2em; overflow: hidden; opacity: .75; float: left;"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-twitter-128.png" alt=""></a>
+        <div style="float: left">
+
+        {{ page.contributors[1].bio | markdownify }}
 
         </div>
 
