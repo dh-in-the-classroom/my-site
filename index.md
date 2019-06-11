@@ -8,7 +8,7 @@ contributors:
     image: https://scontent-lga3-1.cdninstagram.com/vp/474118d7d1cb116512813caed3bff0a0/5D788491/t51.2885-19/s150x150/40467556_2144512145622698_7063281169487364096_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com
     bio: "hello@mayapolarbear.com"
     twitter: GeorgeARomeros
-- name: George Romero
+  - name: George Romero
     image: https://pbs.twimg.com/profile_images/457000434532483072/LpJVylwE_400x400.jpeg
     bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
     twitter: GeorgeARomeros
